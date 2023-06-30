@@ -3,6 +3,6 @@
 
 ## 恋するハッカソン
 ## 髪型
--[ショートヘア](./shorthair.py)
--[ロングヘア](./longhair.py)
--[ポニーテール](./ponytail.py)
+- [ショートヘア](./shorthair.py)
+- [ロングヘア](./longhair.py)
+- [ポニーテール](./ponytail.py)
