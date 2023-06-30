@@ -1,2 +1,2 @@
 # paiza
-![CodeGirl Collection](./images/ccodinggirl.png)
+![CodeGirl Collection](./images/codinggirl.png)
